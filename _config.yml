@@ -23,4 +23,4 @@ twitter_username: improvpl
 github_username:  noveoko
 # Build settings
 markdown: kramdown
-theme: minima
+theme: greyscale
